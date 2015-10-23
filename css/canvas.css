@@ -1,0 +1,17 @@
+@charset "UTF-8";
+html, body {
+  margin: 0 auto;
+  padding: 0; }
+
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+#canvas {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  border－width: 1px;
+  border-color: #e0e0e0;
+  background-color: #fff; }
+
+/*# sourceMappingURL=canvas.css.map */

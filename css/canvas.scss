@@ -1,0 +1,16 @@
+html,body{
+	margin:0 auto;
+	padding:0;
+}
+*,*:before,*:after{
+	box-sizing:border-box;
+}
+
+#canvas{
+	width:400px;
+	height:400px;
+	margin: 0 auto;
+	border－width:1px; 
+	border-color:  rgb(224,224,224);
+	background-color:#fff;
+}
